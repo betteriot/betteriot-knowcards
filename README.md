@@ -1,2 +1,2 @@
 # IoT Mark KnowCards
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [iotmark.org](http://iotmark.org/)
+This work by [iotmark.org](http://iotmark.org/) is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
